@@ -45,19 +45,7 @@ Desarrollo de aplicacion en React con Typescript de una interfaz de usuario senc
 
 ![alt](./images-readme/EE-6-delete.png)
 
-
-![alt](./images-readme/e2e-challenge-esto-es.gif)
-
-
-
-<iframe alt="asd" width="854" height="480" src="./images-readme/e2e-challenge-esto-es.gif" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe width="854" height="480" src="./images-readme/e2e-challenge-esto-es.mkv" frameborder="0" allowfullscreen></iframe>
-
-<video src='./images-readme/e2e-challenge-esto-es.mkv' width=480/>
-
-![asd](./images-readme/e2e-challenge-esto-es.gif)
+![alt](./images-readme/EE-7-e2e.png)
 
 
 ## Demo
