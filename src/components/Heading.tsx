@@ -3,7 +3,7 @@ import React from 'react'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { Link, useLocation, useParams } from 'react-router-dom';
 import AddIcon from '@mui/icons-material/Add';
-// import logo from "../assets/logo.png";
+import logo from "../assets/logo.png";
 
 const Heading = () => {
 
@@ -24,7 +24,7 @@ const Heading = () => {
             style={{ backgroundColor: "white" }}
             paddingLeft={5}
           >
-            {/* <img src={logo} alt="logo-esto-es" /> */}
+            <img src={logo} alt="logo-esto-es" />
           </Box>
 
           {/* VOLVER ATRAS */}
